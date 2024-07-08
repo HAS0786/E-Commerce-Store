@@ -1,0 +1,12 @@
+/* SimpleSlider.css */
+.slick-list-custom {
+    overflow: hidden; /* Adjust overflow to hide extra space */
+  }
+  
+  /* Adjust image height dynamically based on viewport height */
+  .slider-container .slick-slide img {
+    border: 2px;
+    border-radius: 10px;
+    height: 50vh; /* Adjust this value as needed */
+  }
+  
